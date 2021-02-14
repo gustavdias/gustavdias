@@ -1,5 +1,5 @@
-[![Website](https://github.com/gustavdias/gustavdias/blob/main/banner.png)](https://gustavodias.xyz)
-<a href="https://gustavodias.xyz" target="_blank"><img src="https://github.com/gustavdias/gustavdias/blob/main/banner.png" alt="my-website"/></a>
+<!-- [![Website](https://github.com/gustavdias/gustavdias/blob/main/banner.png)](https://gustavodias.xyz) -->
+<a href="https://gustavodias.xyz" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gustavdias/gustavdias/blob/main/banner.png" alt="my-website"/></a>
 
 ### Hi there 👋
 
@@ -17,8 +17,8 @@ in my humble ✨ repository ✨ </br>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/gustavoalmd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my-linkedin"/></a>
-<a href="https://gustavdias.xyz" target="_blank"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&style=flat&color=red&logo=embarcadero" alt="my-website"/></a>
+<a href="https://www.linkedin.com/in/gustavoalmd/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my-linkedin"/></a>
+<a href="https://gustavodias.xyz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&style=flat&color=red&logo=embarcadero" alt="my-website"/></a>
 
 </p>
 
