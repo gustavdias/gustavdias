@@ -1,4 +1,5 @@
 [![Website](https://github.com/gustavdias/gustavdias/blob/main/banner.png)](https://gustavodias.xyz)
+<a href="https://gustavodias.xyz" target="_blank"><img src="https://github.com/gustavdias/gustavdias/blob/main/banner.png" alt="my-website"/></a>
 
 ### Hi there 👋
 
@@ -14,11 +15,11 @@ in my humble ✨ repository ✨ </br>
 
 **Check my:**
 
-<p align="left"> 
-<!-- <a href="https://www.twitter.com/_smewara"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=twitter&?style=flat&color=1DA1F2&logo=twitter" alt="my-twitter"/></a> -->
-<a href="https://www.linkedin.com/in/gustavoalmd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my-linkedin"/></a>
-<a href="https://gustavdias.xyz"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&style=flat&color=red&logo=embarcadero" alt="my-website"/></a>
-<!-- <a href="https://github.com/gustavdias?tab=repositories"><img align="right" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a> -->
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gustavoalmd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my-linkedin"/></a>
+<a href="https://gustavdias.xyz" target="_blank"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&style=flat&color=red&logo=embarcadero" alt="my-website"/></a>
+
 </p>
 
 **Contact me :speech_balloon:**
@@ -78,7 +79,7 @@ in my humble ✨ repository ✨ </br>
 - 📫 How to reach me: gustav.almd@gmail.com, Skype: guadias.
 
   <br/>
-   <img align="left" alt="gustavdias' GitHub Stats" src="https://github-readme-stats-three-khaki.vercel.app/api?username=gustavdias&show_icons=true&hide_border=true" />
+   <img align="left" alt="gustavdias' GitHub Stats" src="https://github-readme-stats-three-khaki.vercel.app/api?username=gustavdias&show_icons=true&hide_border=true" target="_blank" />
 
 > #### <samp>Good people do not need laws to tell them to act responsibly...
 >
