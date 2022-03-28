@@ -13,7 +13,7 @@ in my humble ✨ repository ✨ </br>
 
 ### I'm Gustavo,
 
-<p> a frontend developer from <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="15" height="12"/> currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png" width="15" height="12"/> </p>
+<!-- <p> a frontend developer from <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="15" height="12"/> currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png" width="15" height="12"/> </p> -->
 
 **Check my:**
 
