@@ -1,6 +1,6 @@
 
 <p>
-<a href="https://gustavodias.xyz" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gustavdias/gustavdias/blob/main/banner.png" alt="my-website"/></a>
+<a href="shttps://gustavodias.xyz" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gustavdias/gustavdias/blob/main/banner.png" alt="my-website"/></a>
 </p>
 
 ### Hi there 👋
