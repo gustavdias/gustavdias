@@ -31,8 +31,10 @@ Design systems & scalable UI architecture
 **Backend & Systems**  
 Node.js, NestJS, .NET  
 REST & GraphQL APIs  
-Event-driven patterns  
-WebSockets, background job processing (Redis)  
+Event-driven architecture  
+Redis (ioredis)  
+Background job processing (BullMQ)  
+WebSockets & real-time systems  
 
 **Infrastructure**  
 Docker  
